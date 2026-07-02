@@ -1,0 +1,2 @@
+"""Website capture prototype."""
+

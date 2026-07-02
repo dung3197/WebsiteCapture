@@ -1,0 +1,5 @@
+.venv/
+.chrome-profile*/
+output/
+__pycache__/
+*.pyc
